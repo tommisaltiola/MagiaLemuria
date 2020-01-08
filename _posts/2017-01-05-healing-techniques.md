@@ -30,16 +30,18 @@ recipe:
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
 
-Lovely ways to heal yourself.&nbsp;
+Lovely ways to heal yourself from home&nbsp;
 
-![Cookie](/uploads/sarah-brown-cvt0u781vgo-unsplash.jpg){: width="1560" height="1064"}
+![](/uploads/sarah-brown-cvt0u781vgo-unsplash-1.jpg){: width="625" height="426"}
 
-Carefully placing them on the tray.
+&nbsp;
 
-![Cookie](/uploads/priscilla-du-preez-ukzazkwqpec-unsplash.jpg){: width="3120" height="2080"}
+Using minerals.
 
-Little Gavin loves them.
+![Cookie](/uploads/priscilla-du-preez-ukzazkwqpec-unsplash-1.jpg){: width="635" height="423"}
 
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
+Essential oils.
 
-Delicious\!
+![Cookie](/uploads/mitchell-griest-fbxhhcihevm-unsplash.jpg){: width="625" height="417"}
+
+Meditation\!
