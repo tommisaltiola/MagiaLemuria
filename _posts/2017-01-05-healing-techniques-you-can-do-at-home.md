@@ -1,6 +1,6 @@
 ---
 date: 2017-01-05 00:00:00
-title: Healing Techniques
+title: Healing Techniques you can do at home
 categories:
   - Healing
 featured_image: /uploads/pharmacy-2055130-640.jpg
