@@ -1,9 +1,9 @@
 ---
 date: 2017-01-05 00:00:00
-title: Healing Elements
+title: Healing Techniques
 categories:
   - Healing
-featured_image: /uploads/jonathan-francisca-bpbklacp64m-unsplash.jpg
+featured_image: /uploads/pharmacy-2055130-640.jpg
 recipe:
   servings: 60 cookies
   prep: 15 minutes
