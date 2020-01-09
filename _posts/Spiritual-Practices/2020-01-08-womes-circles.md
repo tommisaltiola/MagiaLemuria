@@ -11,15 +11,15 @@ recipe:
   directions_markdown:
 ---
 
-![](/uploads/tulum-1949986-640.jpg){: width="426" height="640"}
-
 &nbsp;
+
+![](/uploads/woman-2176687-640.jpg){: width="640" height="480"}
 
 mimimidmis mimi :)&nbsp;
 
 &nbsp;
 
-![](/uploads/actionvance-1en74yxhmla-unsplash.jpg){: width="1560" height="1169"}
+&nbsp;
 
 &nbsp;
 
