@@ -4,12 +4,7 @@ title: Healing Techniques you can do at home
 categories:
   - Healing
 featured_image: /uploads/pharmacy-2055130-640.jpg
-recipe:
-  servings:
-  prep:
-  cook:
-  ingredients_markdown:
-  directions_markdown:
+
 ---
 
 Lovely ways to heal yourself from home&nbsp;
